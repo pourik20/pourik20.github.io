@@ -1,0 +1,20 @@
+* {
+    padding: 0;
+    margin: 0;
+    max-width: 100%;
+    overflow-x: hidden;
+    position: relative;
+}
+
+h1 {
+    font-family: 'SF Pro Display', 'SF Pro Icons', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+    font-size: 4rem;
+    color: #111111;
+}
+
+#soon {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
